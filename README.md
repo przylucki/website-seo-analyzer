@@ -1,5 +1,8 @@
 # Simple SEO Analyzer
 
+![Screenshot](seo_app_analyzer_scr.png)
+
+
 ## Overview
 
 Simple SEO Analyzer is a Python-based tool for quickly analyzing basic SEO elements on websites. It provides insights into the CMS used, page title, keywords, header tags (H1), and identifies images without alt attributes. The tool generates a report to help users optimize their web content for better search engine visibility.
